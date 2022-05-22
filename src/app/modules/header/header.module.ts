@@ -13,7 +13,7 @@ import { SubMenuItemComponent } from './components/sub-menu-item/sub-menu-item.c
   ],
   imports: [
     CommonModule,
-    MatMenuModule
+    MatMenuModule,
   ],
   exports: [
     HeaderComponent
